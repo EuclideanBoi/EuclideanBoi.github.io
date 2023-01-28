@@ -1,0 +1,91 @@
+body {
+	margin: 0;
+	background-color:#ff9900;
+	font-family: sans-serif;
+}
+h1 {
+	font-size:60px;
+}
+.attractions {
+	height: auto;
+	margin: 0;
+	color:white;
+	background-color:#00ffff;
+	background-image: url('pool.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 120%, 120%;
+	padding: 1px;
+}
+.topbar {
+	text-align: center;
+	font-family: sans-serif;
+	margin: 0;
+	width:100%;
+	height:auto;
+	background-color:#ff9900;
+}
+.title {
+	padding-top: 10px
+}
+.centerlist {
+	text-align: left;
+	width: 50%;
+	margin: auto;
+	font-size: 30px;
+}
+.subtitletext {
+	text-align: center;
+	margin:0;
+	padding-top:10px;
+	font-size: 40px;
+}
+.foodlist {
+	background-color:#ff9900;
+	height:auto;
+	margin: 0;
+	padding: 10px;
+}
+.tentips {
+	color: white;
+	height: auto;
+	margin: 0;
+	background-image: url('pool2.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 120%, 120%;
+	padding: 10px;
+}
+.burger {
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+	height: auto;
+}
+.map {
+	background-color: #ff9900;
+	height: auto;
+	margin: 0;
+}
+.googlemap {
+	margin: auto;
+	width: 600px;
+	padding: 10px;
+}
+.misc {
+	color: white;
+	background-color: #002347;
+	height: auto;
+	margin: 0;
+	padding: 10px;
+}
+.infotable {
+	padding: 10px;
+}
+.contact {
+	width: 600px;
+	margin: auto;
+}
+.email {
+	background-color: #0868f1;
+}
